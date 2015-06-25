@@ -1,0 +1,1 @@
+sass --watch sass/knacss.scss:css/style.css
